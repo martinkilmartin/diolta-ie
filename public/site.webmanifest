@@ -1,8 +1,7 @@
 {
-    "name": "Sionnach Solutions a.k.a. Sionnach Buí",
-    "short_name": "Sionnach Solutions",
-    "icons": [
-        {
+    "name": "Díolta.ie",
+    "short_name": "díolta.ie",
+    "icons": [{
             "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"

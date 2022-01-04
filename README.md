@@ -1,6 +1,6 @@
-# sionnach.solutions
+# diolta.ie
 
-Website for Sionnach Solutions / Sionnach Buí
+Website for Díolta.ie
 
 ## Run dev build & start dev server
 
